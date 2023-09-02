@@ -17,7 +17,6 @@ public class Three {
             System.out.println();
         }
     }
-
     public static void main(String[] args) {
         int height = 5;
         printChristmasTree(height);
